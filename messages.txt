@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 added file
+=======
+here we will add messages
+add_ new text for testing 
+>>>>>>> feature-login
